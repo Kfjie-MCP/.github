@@ -23,6 +23,7 @@ Explore the repositories in this organization to find individual MCP servers, in
 | [Transcriptor](https://github.com/Kfjie-MCP/transcriptor) | Video metadata, subtitles, transcription, and frames for AI tools. |
 | [Agent Reach](https://github.com/Kfjie-MCP/agent-reach) | Read-only search and content retrieval across public platforms. |
 | [Xuexitong](https://github.com/Kfjie-MCP/xuexitong-cli) | Course information, chapter resources, and original course files. |
+| [MCP Control Center](https://github.com/Kfjie-MCP/control-center) | Service directory, private accounts, and per-client OAuth connections. |
 | [MCP Auth UI](https://github.com/Kfjie-MCP/auth-ui) | Shared OAuth authorization pages for these MCP services. |
 
 Contributions, suggestions, and improvements are welcome.
